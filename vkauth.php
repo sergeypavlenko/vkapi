@@ -2,8 +2,13 @@
 <meta charset=utf-8 />
 
 <?php
-
 /**
+ * Работа с API Вконтакте, на примере получения профиля пользователся
+ * by Ilya Shalyapin, www.coderiver.ru
+ */
+ 
+  
+/** 
  * Поддержка OAuth 2.0 платформой ВКонтакте:
  * http://habrahabr.ru/blogs/social_networks/117211/?utm_source=twitterfeed&utm_medium=twitter
  * 
@@ -18,6 +23,9 @@
  * 
  * Open API:
  * http://vkontakte.ru/pages.php?o=-1&p=Open+API
+ * 
+ * Добавление приложения ВКонтакте
+ * http://vkontakte.ru/apps.php?act=add
  */ 
 
 

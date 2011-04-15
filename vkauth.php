@@ -8,11 +8,12 @@
  */
  
   
-/** 
+/**
  * Поддержка OAuth 2.0 платформой ВКонтакте:
  * http://habrahabr.ru/blogs/social_networks/117211/?utm_source=twitterfeed&utm_medium=twitter
  * 
  * Диалог авторизации OAuth
+ * http://vkontakte.ru/developers.php?o=-1&p=%C0%E2%F2%EE%F0%E8%E7%E0%F6%E8%FF%20%F1%E0%E9%F2%EE%E2
  * http://vkontakte.ru/developers.php?o=-1&p=%C4%E8%E0%EB%EE%E3%20%E0%E2%F2%EE%F0%E8%E7%E0%F6%E8%E8%20OAuth
  * 
  * Описание метода getProfiles:

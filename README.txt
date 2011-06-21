@@ -1,2 +1,2 @@
 Работа с API Вконтакте, примеры
-by Ilya Shalyapin, www.coderiver.ru
+by Ilya Shalyapin, Sergey Pavlenko
